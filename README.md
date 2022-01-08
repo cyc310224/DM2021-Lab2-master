@@ -8,4 +8,4 @@ DM2021-Lab2-Homework.ipynb :
 Lab2 Homework Exercise  
   
 DM2021-Lab2-Kaggle.ipynb :   
-Lab2 Kaggle Competition  
+Lab2 Kaggle Competition code and report (in the end)  
