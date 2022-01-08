@@ -1,7 +1,7 @@
 # DM2021-Lab2-master
 ISA5810 Data Mining Lab 2  
   
-./notebook :
+./notebook :  
 training history for different methods (ML, DL, RNN)  
   
 DM2021-Lab2-Homework.ipynb :  
